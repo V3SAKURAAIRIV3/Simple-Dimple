@@ -9,8 +9,7 @@
 ♦️ COMING SOON ADD DNS & DNS CHANGER <br>
 ♦️ COMING SOON ADD CINTAKU PADAMU <br>
 
-###
-###
+
 
 ♦️ For Debian 10 Only <br>
  
