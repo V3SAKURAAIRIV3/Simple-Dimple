@@ -1,14 +1,7 @@
 ### AUTOSCRIPT COMBINE 2023 <br>
-
-♦️ DONE FIX CHECK VMESS, VLESS & TROJAN <br>
-♦️ DONE FIX DELETE VMESS, VLESS & TROJAN <br>
-♦️ FIX RENEW VMESS, VLESS & TROJAN <br>
-
 ### ADDON COMING SOON <br>
 
 ♦️ ADD DNS & DNS CHANGER <br>
-
-
 
 
 ♦️ For Debian 10 Only <br>
