@@ -1,6 +1,7 @@
 ### ADDON COMING SOON <br>
 
 ♦️ ADD DNS CHECKER & DNS CHANGER <br>
+♦️ ADD UPDATE ONE CLICK <br>
 
 
 ♦️ For Debian 10 Only <br>
