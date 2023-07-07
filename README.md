@@ -1,7 +1,7 @@
 ### AUTOSCRIPT COMBINE 2023 <br>
 ### ADDON COMING SOON <br>
 
-♦️ ADD DNS & DNS CHANGER <br>
+♦️ ADD DNS CHECKER & DNS CHANGER <br>
 
 
 ♦️ For Debian 10 Only <br>
