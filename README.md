@@ -27,12 +27,12 @@ AssalamualaikumSayangKu
 <br>
 </b>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/1Main-Menu.png" width="400" title="Menu1"><br>
+  <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/1Main-Menu.png" width="400" title="1"><br>
 <br>
- <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/2Status-Running.png" width="400" title="Menu2"><br>
+ <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/2Status-Running.png" width="400" title="2"><br>
 <br>
- <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/3Info-Port.png" width="400" title="Menu2"><br>
+ <img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/3Info-Port.png" width="400" title="3"><br>
 <br>
-<img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/4Status%20Restart%20Services%20Running.png" width="400" title="Menu3"><br>
+<img src="https://raw.githubusercontent.com/V3SAKURAAIRIV3/Simple-Dimple/main/4Status%20Restart%20Services%20Running.png" width="400" title="4"><br>
 <br>                                                                                                                                       
 </p>
