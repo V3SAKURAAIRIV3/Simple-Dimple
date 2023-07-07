@@ -6,8 +6,8 @@
 
 ### ADDON COMING SOON <br>
 
-♦️ 1. ADD DNS & DNS CHANGER <br>
-♦️ 2. ADD CINTAKU PADAMU <br>
+♦️ ADD DNS & DNS CHANGER <br>
+
 
 
 
