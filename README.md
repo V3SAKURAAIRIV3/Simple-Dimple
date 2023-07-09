@@ -3,6 +3,7 @@
 ♦️ ADD DNS CHECKER & DNS CHANGER <br>
 ♦️ ADD UPDATE ONE CLICK <br>
 
+♦️ PANTAU GITHUB KITA KE TU HAHAHAHA <br>
 
 ♦️ For Debian 10 Only <br>
  
